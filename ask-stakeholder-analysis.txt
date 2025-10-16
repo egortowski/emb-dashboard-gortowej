@@ -1,33 +1,41 @@
 # Stakeholder Analysis
 # Identify and analyze all parties affected by your problem and solution
 
-## PRIMARY STAKEHOLDERS (High Interest + High Influence)
+## Internal Stakeholders
 
-### Senior Management/C-Suite
-- **Interest in Problem:** Turnover directly impacts bottom line through recruitment costs ($3-8K per hire), operational disruption reducing productivity, and customer satisfaction scores affecting revenue growth and market share.
-- **Interest in Solution:** Strong ROI potential with 35-45% cost reduction, improved operational metrics, enhanced brand reputation, and competitive advantage through superior service consistency.
-- **Influence Level:** **HIGH** - Budget approval authority, strategic direction, resource allocation decisions
-- **Support Level:** **Strong Supporter** - Clear financial benefits align with shareholder expectations
+### Senior Management
+- **Interest in Problem:** [How does this problem affect leadership?]
+- **Interest in Solution:** [What would leadership gain from solving this?]
+- **Influence Level:** [High/Medium/Low influence on solution success]
+- **Support Level:** [Likely supporter/neutral/resistant]
 
-### District/Regional Managers  
-- **Interest in Problem:** Constant staffing crises create management overload, performance pressure from inconsistent store results, and career advancement barriers due to operational instability.
-- **Interest in Solution:** Reduced administrative burden, improved district performance metrics, better work-life balance, enhanced career prospects through successful program leadership.
-- **Influence Level:** **HIGH** - Implementation oversight, store manager influence, operational decision-making authority
-- **Support Level:** **Strong Supporter** - Direct personal and professional relief
+### Middle Management
+- **Interest in Problem:** [How does this problem affect middle managers?]
+- **Interest in Solution:** [What would middle management gain/lose?]
+- **Influence Level:** [High/Medium/Low influence on implementation]
+- **Support Level:** [Likely supporter/neutral/resistant]
 
-### Store Managers/Assistant Managers
-- **Interest in Problem:** Daily operational stress from understaffing, continuous recruitment/training cycles, customer complaints about service quality, and personal burnout from management responsibilities.
-- **Interest in Solution:** Stable staffing levels, reduced training workload, improved team performance, better customer feedback, enhanced job satisfaction and retention.
-- **Influence Level:** **HIGH** - Front-line implementation, employee relationship management, culture development
-- **Support Level:** **Strong Supporter** - Immediate operational benefits
+### Employees/Staff
+- **Interest in Problem:** [How does this problem affect front-line workers?]
+- **Interest in Solution:** [What would employees gain/lose from solution?]
+- **Influence Level:** [High/Medium/Low influence on solution success]
+- **Support Level:** [Likely supporter/neutral/resistant]
 
-## SECONDARY STAKEHOLDERS (Variable Interest/Influence)
+### Other Internal Groups
+[Add additional internal stakeholder groups as relevant]
+- **Department/Group:** [Name]
+- **Interest in Problem:** [How affected?]
+- **Interest in Solution:** [What's at stake?]
+- **Influence Level:** [High/Medium/Low]
+- **Support Level:** [Likely response]
 
-### Human Resources Department
-- **Interest in Problem:** Overwhelming recruitment workload, training resource strain, employer brand damage, compliance challenges, and difficulty meeting hiring targets in competitive markets.
-- **Interest in Solution:** Reduced recruiting pressure, improved employer branding metrics, strategic focus shift from reactive hiring to proactive development, better HR performance indicators.
-- **Influence Level:** **MEDIUM** - Policy development, training design, measurement systems, compliance oversight
-- **Support Level:** **Strong Supporter** - Directly addresses core HR operational challenges
+## External Stakeholders
+
+### Customers/Clients
+- **Interest in Problem:** [How does this problem affect customers?]
+- **Interest in Solution:** [What would customers gain/lose?]
+- **Influence Level:** [High/Medium/Low influence through feedback/loyalty]
+- **Support Level:** [Likely supporter/neutral/resistant]
 
 ### Front-Line Employees
 - **Interest in Problem:** Job insecurity, limited advancement opportunities, inadequate training support, workplace stress from constant team changes, reduced job satisfaction from understaffing.

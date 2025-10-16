@@ -1,4 +1,4 @@
-# Problem Definition: High Employee Turnover in Retail and Food Service Chains
+# Problem Definition: High Employee Turnover in Retail and Food Service
 
 ## X → Y Framework
 ### Current State (X - What's happening now that's problematic?)
@@ -9,22 +9,22 @@ Achieve sustainable turnover rates of 40-60% through evidence-based retention st
 
 ## PICOC Framework
 ### Population (P - Who is affected by this problem?)
-Hourly front-line employees in retail and food service chain operations, including cashiers, sales associates, food preparation staff, servers, and shift supervisors in companies with 50+ locations. Focus on entry-level and part-time positions that comprise 70-80% of workforce in companies like Starbucks, Chipotle, Best Buy, and Home Depot.
+Hourly front-line employees in retail and food service industry operations (ie. cashiers, sales associates, food preparation staff, servers, and shift supervisors).
 
 ### Intervention (I - What solution/action are we considering?)
-Comprehensive retention strategy including structured 60-90 day onboarding programs, competitive compensation with performance incentives, flexible scheduling technology, clear career advancement pathways, peer recognition systems, enhanced manager training on employee engagement, and workplace culture initiatives designed for multi-unit scalability.
+Comprehensive retention strategy including onboarding programs, competitive compensation, flexible scheduling, clear career development pathways, peer recognition systems, manager training on employee engagement
 
 ### Comparison (C - What alternatives exist?)
-Current industry standard practices: minimal 1-2 day orientation, base wage compensation, rigid scheduling, limited advancement opportunities, traditional management approaches. Alternative: maintain status quo, outsource to staffing agencies, or adopt high-performer practices from companies achieving 40-50% turnover rates like Costco and In-N-Out Burger.
+Current industry standard practices: minimal 1-2 day orientation, base wage compensation, strict scheduling, limited advancement opportunities, traditional management approaches.
 
 ### Outcomes (O - What will success look like?)
-Primary: Reduce turnover from 75-100% to 40-60% within 24 months. Secondary: Increase average tenure to 18+ months, improve employee satisfaction scores by 30%, reduce time-to-productivity from 8 weeks to 4 weeks, decrease customer complaints by 25%, and achieve 35-45% reduction in turnover-related costs.
+Primary: Reduce turnover from 75-100% to 40-60% within 24 months. Secondary: Decrease turnover-related costs by 35-45%.
 
 ### Context (C - Where/when does this apply?)
-Large retail chains and food service operations with standardized processes, corporate oversight, and multi-unit management structures operating in competitive labor markets across diverse geographic regions including urban, suburban, and college town locations with varying demographic compositions.
+Large retail chains and food service operations with corporate oversight, and set management structures in competitive labor markets across the United States.
 
 ## Clear Problem Statement
-Excessive employee turnover rates (75-100% annually) in retail and food service chains create unsustainable operational costs, service inconsistency, and competitive disadvantage, requiring systematic evidence-based retention interventions to achieve industry-leading performance and financial sustainability.
+Excessive employee turnover rates (75-100% annually) in the retail and food service industry creating operational costs, service inconsistency, and competitive disadvantage.
 
 ## Why This Problem Matters
 ### Impact on Organization
