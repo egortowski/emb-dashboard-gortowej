@@ -1,0 +1,237 @@
+# Stakeholder Evidence: Methods & Engagement Strategy
+# Document your approach to gathering stakeholder perspectives and feedback
+
+# Stakeholder Evidence: Methods & Engagement Strategy
+# Document your approach to gathering stakeholder perspectives and feedback
+
+## Stakeholder Evidence Goals
+**Primary Goal:** Understand stakeholder priorities, concerns, and preferences regarding employee turnover reduction interventions
+**Secondary Goal:** Assess stakeholder support levels and identify potential resistance or implementation barriers
+
+## Target Stakeholder Groups
+
+### Internal Stakeholders
+#### Management/Leadership
+- **Target Participants:** Business owners, operations managers, shift supervisors (3-5 people)
+- **Engagement Method:** Structured interviews and stakeholder mapping workshop
+- **Key Questions Focus:** Resource allocation priorities, implementation concerns, success criteria expectations
+- **Expected Response Rate:** 100% - direct access and high stake in outcomes
+
+#### Employees/Staff
+- **Target Participants:** Current employees across departments, recent hires, long-term employees (8-12 people)
+- **Engagement Method:** Anonymous surveys plus voluntary focus group discussions
+- **Key Questions Focus:** Job satisfaction drivers, preferred improvements, concerns about changes
+- **Expected Response Rate:** 70-80% survey, 40-50% focus group participation
+
+#### Other Internal Groups
+- **Former Employees:** Recent departures willing to provide exit feedback (2-4 people)
+- **Family Members:** In family businesses, family stakeholders affected by business performance
+
+### External Stakeholders
+#### Customers/Clients
+- **Target Participants:** Regular customers who have experienced service during high turnover periods (5-8 people)
+- **Engagement Method:** Brief informal interviews and feedback sessions
+- **Key Questions Focus:** Service quality impact, loyalty factors, tolerance for service disruptions
+- **Expected Response Rate:** 60-70% - incentivized with discounts or service credits
+
+#### Partners/Suppliers
+- **Target Participants:** Key vendors, landlord, business service providers (3-4 people)
+- **Engagement Method:** Informal discussions and feedback collection
+- **Key Questions Focus:** Business stability perceptions, contract/relationship impacts
+- **Expected Response Rate:** 80% - existing relationship facilitates engagement
+
+## Data Collection Methods
+
+### Survey Design
+#### Online Survey Platform
+- **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
+- **Survey Length:** [Estimated completion time]
+- **Question Types:** [Mix of multiple choice, rating scales, open-ended]
+## Data Collection Methods
+
+### Stakeholder Surveys
+#### Employee Survey Design  
+- **Survey Length:** 15-20 questions, 5-10 minutes completion time
+- **Distribution Method:** Anonymous online survey with paper backup option
+- **Incentives:** Entry into raffle for paid time off or gift cards
+
+#### Key Survey Questions
+**Problem Assessment Questions:**
+- How frequently do you experience challenges related to high staff turnover?
+- How significantly does staff turnover impact your job satisfaction and workload?
+- What do you see as the main causes of employees leaving?
+
+**Solution Feedback Questions:**  
+- How would you rate the potential effectiveness of wage increases, flexible scheduling, and training programs?
+- What concerns do you have about implementing retention programs?
+- What would make retention programs most beneficial for you personally?
+
+**Priority and Support Questions:**
+- How important is reducing turnover compared to other workplace improvements?
+- What level of support would you provide for retention initiatives?
+- What benefits would be most valuable to you personally?
+
+### Interview Protocol
+#### Interview Structure
+- **Duration:** 20-30 minutes per interview
+- **Format:** In-person preferred, phone/video backup
+- **Recording:** Note-taking only to maintain comfort and confidentiality
+- **Note-taking:** Structured template with key themes and direct quotes
+
+#### Interview Questions
+**Opening Questions:**
+- Tell me about your experience with staff turnover in this business
+- How has high turnover affected your work experience?
+
+**Problem Exploration:**
+- Can you describe what happens when someone quits unexpectedly?
+- What impact does constant training of new employees have on you?
+- What do you think are the real reasons people leave?
+
+**Solution Discussion:**
+- What changes would make you more likely to stay long-term?
+- How do you think wage improvements, better scheduling, or training programs would help?
+- What concerns or challenges do you foresee with these approaches?
+
+**Implementation Questions:**
+- What would success look like from your perspective?
+- What support or changes would you need to embrace these improvements?
+- Who else should be involved in designing these programs?
+
+### Focus Groups
+#### Focus Group Design
+- **Group Size:** 6-8 participants per group
+- **Number of Groups:** 2 groups (current employees, management team)
+- **Group Composition:** Separate employee and management groups to encourage open discussion
+## Stakeholder Mapping and Analysis
+
+### Power/Interest Analysis Framework
+**Stakeholder Mapping Methodology:**
+1. Identify all stakeholders affected by or affecting turnover reduction initiatives
+2. Assess each stakeholder's power to influence program success (High/Medium/Low)
+3. Assess each stakeholder's interest/stake in program outcomes (High/Medium/Low)  
+4. Develop targeted engagement strategies based on power/interest positioning
+
+### Visual Analysis Tools
+**Power/Interest Diagram:** Visual mapping of stakeholders on power (y-axis) vs interest (x-axis) grid
+**Stakeholder Influence Network:** Relationship mapping showing formal and informal influence patterns
+**Priority Engagement Matrix:** Action planning grid for stakeholder engagement priorities
+
+## Data Collection Timeline
+**Week 1 (November 20-21):** Stakeholder identification and mapping exercise
+**Week 1-2:** Employee survey distribution and collection
+**Week 2:** Management interviews and focus group scheduling
+**Week 3:** Customer feedback collection and partner discussions
+**Week 3-4:** Data analysis and synthesis for decision-making
+
+## Expected Challenges and Mitigation
+**Employee Participation:** Concern about retaliation or management response
+- **Mitigation:** Anonymous surveys, voluntary participation, clear confidentiality protocols
+
+**Honest Feedback:** Tendency to provide socially acceptable rather than honest responses  
+- **Mitigation:** Multiple data collection methods, anonymous options, neutral facilitation
+
+**Management Bias:** Tendency for management to dominate discussion
+- **Mitigation:** Separate employee and management sessions, structured protocols
+
+**Time Constraints:** Limited time for comprehensive stakeholder engagement
+- **Mitigation:** Focus on key stakeholders, efficient data collection methods, rapid analysis
+
+**Stakeholder Evidence Collection Strategy Finalized:** November 20, 2025
+**Primary Focus:** Power/Interest mapping with targeted engagement for high-influence stakeholders
+**Visual Deliverables:** Stakeholder mapping diagram and influence network analysis
+
+## Sampling Strategy
+
+### Stakeholder Identification
+#### Stakeholder Mapping
+[List specific individuals or groups you'll target]
+
+#### Sampling Approach
+- **Total Target Sample:** [Number of stakeholders to engage]
+- **Sampling Method:** [Random, purposive, convenience, stratified]
+- **Representation Goals:** [What diversity of perspectives you want]
+
+### Recruitment Strategy
+#### Outreach Method
+**Email Invitation Template:**
+[Draft your stakeholder outreach message]
+
+**Follow-up Strategy:**
+[How and when you'll follow up with non-responders]
+
+**Gatekeepers:**
+[Who might help you reach stakeholders or whose permission you need]
+
+## Ethical Considerations
+
+### Informed Consent
+- **Purpose Explanation:** [How you'll explain the research purpose]
+- **Participation Voluntariness:** [Making clear that participation is optional]
+- **Data Use:** [How you'll explain how their input will be used]
+- **Anonymity/Confidentiality:** [What privacy protections you'll provide]
+
+### Organizational Permissions
+- **Supervisor Approval:** [Do you need management approval for stakeholder engagement?]
+- **HR Consultation:** [Should you coordinate with HR for employee surveys/interviews?]
+- **External Stakeholder Protocols:** [Any special considerations for external stakeholders?]
+
+## Timeline and Logistics
+
+### Data Collection Schedule
+- **Survey Launch:** [When you'll distribute surveys]
+- **Survey Close:** [Deadline for survey responses]
+- **Interview Period:** [Window for conducting interviews]
+- **Focus Group Dates:** [When focus groups will occur]
+- **Follow-up Period:** [Time for additional questions or clarifications]
+
+### Logistical Planning
+#### Survey Distribution
+- **Distribution Method:** [Email, paper, internal systems]
+- **Reminder Schedule:** [When you'll send follow-up reminders]
+- **Technical Support:** [How you'll help participants with technical issues]
+
+#### Interview Scheduling
+- **Scheduling Method:** [How you'll coordinate interview times]
+- **Location Planning:** [Where interviews will take place]
+- **Equipment Needs:** [Recording equipment, note-taking materials]
+
+## Response Rate Strategy
+
+### Maximizing Participation
+#### Engagement Tactics
+- **Leadership Endorsement:** [Getting visible support from management]
+- **Clear Value Proposition:** [Explaining how participation benefits stakeholders]
+- **Convenient Participation:** [Making it easy to participate]
+- **Multiple Touchpoints:** [Various opportunities to engage]
+
+#### Incentive Strategy
+- **Direct Incentives:** [What you might offer participants]
+- **Indirect Benefits:** [How participation serves stakeholder interests]
+- **Recognition:** [How you might acknowledge participant contributions]
+
+### Minimum Viable Sample
+- **Minimum Response Rate:** [What response rate you need for credible results]
+- **Backup Plan:** [What you'll do if response rates are low]
+- **Alternative Methods:** [Other ways to gather stakeholder input if needed]
+
+## Data Management Plan
+
+### Data Collection Organization
+- **Response Tracking:** [How you'll track who has responded]
+- **Data Storage:** [Where and how you'll store stakeholder responses]
+- **Data Security:** [How you'll protect stakeholder information]
+- **Backup Plan:** [How you'll prevent data loss]
+
+### Analysis Preparation
+- **Coding Strategy:** [How you'll analyze open-ended responses]
+- **Quantitative Analysis:** [How you'll analyze survey data]
+- **Integration Plan:** [How you'll combine different types of stakeholder evidence]
+
+---
+INSTRUCTIONS:
+1. Start stakeholder engagement early - it often takes longer than expected
+2. Be respectful of stakeholder time and provide clear value for participation  
+3. Get appropriate permissions before engaging organizational stakeholders
+4. Plan for lower response rates than you hope for
+5. Have multiple methods to reach different types of stakeholders

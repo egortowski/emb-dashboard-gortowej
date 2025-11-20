@@ -1,0 +1,230 @@
+# Organizational Evidence: Internal Data Collection Strategy
+# Document your approach to gathering internal organizational evidence
+
+# Organizational Evidence: Internal Data Collection Strategy
+# Document your approach to gathering internal organizational evidence
+
+## Internal Evidence Goals
+**Primary Goal:** Establish baseline metrics for turnover rates, costs, and wage competitiveness using existing BLS JOLTS and OES data analysis
+**Secondary Goal:** Quantify potential ROI and financial feasibility of turnover reduction interventions using organizational benchmarking data
+
+## Available Data Sources
+
+### Performance Metrics/KPIs
+- **Financial Data:** Cost per hire calculations, training expenditures, productivity loss estimates
+- **Operational Data:** Staff scheduling efficiency, service delivery consistency, customer wait times
+- **Human Resources Data:** Current turnover rates, exit interview data, time-to-fill positions
+- **Customer Data:** Customer satisfaction scores correlated with staffing levels and service consistency
+- **Other Relevant Metrics:** Industry wage comparisons, benefit cost analysis, competitive positioning data
+
+### Internal Systems
+- **CRM Systems:** Customer complaint patterns related to service inconsistency and staffing issues
+- **ERP Systems:** Labor cost tracking, scheduling system data, productivity measurements
+- **HR Information Systems:** Employee tenure data, performance ratings, exit reasons
+- **Financial Systems:** Payroll costs, training expenses, recruitment costs
+- **Operations Systems:** Schedule adherence, productivity metrics, quality scores
+
+### Reports and Documentation
+- **Regular Reports:** Monthly turnover reports, quarterly budget reviews, annual HR metrics
+- **Survey Results:** Available employee satisfaction surveys and exit interviews
+- **Audit Results:** Operational efficiency assessments and cost analyses
+- **Assessment Reports:** Current wage benchmarking and competitive analysis
+- **Historical Studies:** Existing BLS JOLTS and OES data analysis already completed
+
+## Data Collection Plan
+
+### Quantitative Data Collection
+#### Metrics to Collect
+
+**Problem-Related Metrics:**
+- Annual Turnover Rate: 73% (industry average from BLS data) - Data source: Existing BLS JOLTS analysis
+- Monthly Separation Rate: 6.2% (food service), 4.8% (retail) - Data source: BLS JOLTS monthly reports  
+- Cost per Replacement: $3,200 average - Data source: Industry benchmarking and internal cost analysis
+
+**Solution-Related Metrics:**
+- Current Average Hourly Wage: $12.85 (retail), $11.25 (food service) - Data source: BLS OES wage data analysis
+- Market Wage Premium Required: $2-3/hour for competitive advantage - Data source: OES comparative analysis
+- Training Cost per Employee: $1,200 average - Data source: Internal HR cost tracking
+
+#### Time Period Analysis
+- **Historical Data Range:** 2019-2024 (pre-COVID baseline through current recovery)
+- **Trend Analysis Period:** 24-month rolling analysis to identify sustainable patterns
+- **Seasonal Considerations:** Holiday hiring spikes, summer employment fluctuations, back-to-school impacts
+- **Baseline Period:** [What period represents "normal" operations?]
+
+### Qualitative Data Collection
+#### Internal Documents Review
+- **Policy Documents:** [Relevant policies and procedures]
+- **Meeting Minutes:** [Records of relevant discussions]
+- **Communication Records:** [Emails, memos, announcements]
+### Qualitative Data Collection
+#### Internal Interviews
+- **Target Interviewees:** Current employees, managers, HR personnel, recent departures (if accessible)
+- **Focus Areas:** Reasons for staying/leaving, satisfaction drivers, workplace culture assessment
+- **Interview Questions:** Structured questions about job satisfaction, advancement opportunities, management relationships
+
+#### Internal Documents Review
+- **Policy Documents:** Current HR policies, employee handbooks, training materials
+- **Meeting Minutes:** Management discussions about turnover, budget planning discussions
+- **Project Reports:** Any previous retention initiatives and their outcomes
+
+#### Observational Data
+- **Process Observations:** Daily operational workflows, staff interactions, management practices
+- **Workflow Analysis:** Efficiency of current scheduling, training, and communication processes
+- **Communication Patterns:** How information flows between management and staff
+- **Cultural Observations:** Workplace atmosphere, employee engagement levels, morale indicators
+
+## Access and Permissions
+
+### Data Access Strategy
+#### Required Permissions
+- **Data Custodians:** HR manager (employee data), Finance manager (cost data), Operations manager (productivity data)
+- **Approval Process:** Management approval for employee surveys and interview access
+- **Privacy Considerations:** Anonymize individual employee data, aggregate reporting only
+- **Confidentiality Requirements:** Internal use only, no external sharing of sensitive data
+
+#### Contact Plan
+1. **Primary Contact:** HR Manager
+   - **Data Sources:** Employee records, turnover data, exit interview summaries
+   - **Approach:** Formal request through supervisor with academic research purpose explanation
+
+2. **Secondary Contact:** Finance Manager
+   - **Data Sources:** Cost per hire, training expenses, wage benchmarking data
+   - **Approach:** Business case presentation showing potential cost savings from reduced turnover
+
+### Ethical Considerations
+- **Employee Privacy:** All individual responses anonymized, aggregate reporting only
+- **Data Security:** Secure storage on password-protected systems, limited access
+- **Use Limitations:** Data used only for academic analysis and internal recommendations
+- **Reporting Boundaries:** No individual identification, no proprietary cost data in external reports
+
+## Data Analysis Plan
+
+### Baseline Establishment
+#### Pre-Problem Baselines
+- **2019 Performance Metrics:** Pre-COVID baseline for turnover rates, costs, and operational efficiency
+- **Stable Operating Period:** 2022-2023 post-recovery baseline for current normal operating conditions
+
+#### Normal Operating Ranges
+- **Acceptable Turnover Range:** 30-50% annual (aspirational based on industry best practices)
+- **Cost per Hire Range:** $1,500-2,500 (target improvement from current $3,200)
+- **Time to Fill Range:** 2-4 weeks (current performance measurement)
+
+#### Benchmark Comparisons
+- **Industry Standards:** BLS JOLTS data provides sector-specific benchmarking
+- **Geographic Comparisons:** Virginia regional wage and turnover data for local context
+- **Best Practice Examples:** Costco and Starbucks benchmarks for aspirational targets
+
+### Problem Evidence Analysis
+#### Problem Indicators
+- **Quantitative Confirmation:** Turnover rates 20%+ above industry median
+- **Cost Impact Evidence:** Total replacement costs exceeding 15% of annual payroll
+- **Operational Impact:** Service quality metrics correlated with staffing stability
+
+#### Problem Severity Measurement
+- **Financial Impact:** Total annual cost of turnover as percentage of revenue
+- **Operational Impact:** Customer satisfaction scores correlated with turnover periods
+- **Competitive Impact:** Wage competitiveness ranking within local market
+
+### Solution Feasibility Analysis
+#### Resource Assessment
+- **Budget Availability:** Current training/recruitment budget could fund wage premiums
+- **Management Capacity:** Available management time for program implementation
+- **System Capabilities:** Current scheduling and HR systems adequate for program support
+
+#### Capability Assessment
+- **Change Management Experience:** Previous successful operational changes
+- **Manager Training Capability:** Current manager development programs and effectiveness
+- **Employee Communication Systems:** Existing channels for program rollout and feedback
+
+#### Risk Assessment
+- **Implementation Risks:** Current cash flow capacity for wage increases during slower seasons
+- **Change Management Risks:** Organization's history with successful operational changes
+- **Competitive Risks:** Market response to improved compensation and benefits
+
+## Documentation Strategy
+
+### Data Collection Log
+**Systematic Tracking Approach:**
+- Date of data collection, source contact person, data type and format
+- Version control for updated reports and analyses
+- Cross-reference with BLS data collection dates for consistency
+
+### Analysis Documentation
+**Comprehensive Analysis Records:**
+- Step-by-step methodology for cost calculations and trend analysis
+- Assumptions made in projections and ROI calculations
+- Validation methods for data accuracy and completeness
+
+### Quality Assurance
+**Data Verification Protocol:**
+- Cross-check internal data with industry benchmarks from BLS sources
+- Validate calculations with finance manager for accuracy
+- Confirm trends with multiple data sources where possible
+
+### Version Control
+**Data Management System:**
+- Separate folders for raw data, analysis files, and final reports
+- Date stamps on all analysis versions
+- Master file with latest validated data and calculations
+
+## Expected Challenges
+
+### Data Availability
+**Potential Limitations:**
+- Limited historical data for small organizations
+- Incomplete exit interview data or feedback systems
+- Lack of detailed cost tracking for hiring and training processes
+
+### Data Quality Issues
+**Anticipated Problems:**
+- Inconsistent data collection methods over time
+- Seasonal variations affecting trend analysis
+- Small sample sizes for some metrics
+
+### Access Barriers
+**Potential Obstacles:**
+- Confidentiality concerns about sharing internal financial data
+- Limited time availability from busy managers
+- Sensitivity around employee data and privacy requirements
+
+### Time Constraints
+**Timeline Pressures:**
+- Assignment due November 21 limits data collection window
+- Year-end business priorities may limit manager availability
+- Need to balance thoroughness with practical deadline requirements
+
+## Contingency Plans
+
+### Alternative Data Sources
+- **Industry Association Reports:** If internal data unavailable, use published industry benchmarking
+- **Public Company Data:** Publicly available financial reports from similar organizations
+- **Government Data:** BLS and Census data for additional context and validation
+
+### Modified Analysis Approach
+- **Proxy Metrics:** Use available metrics to estimate unavailable data points
+- **Comparative Analysis:** Focus on relative rather than absolute measurements
+- **Scenario Planning:** Develop multiple scenarios based on different data assumptions
+
+**Organizational Evidence Collection Strategy Finalized:** November 20, 2025
+**Primary Focus:** Leveraging existing BLS JOLTS and OES analysis for baseline metrics
+**Ready for Implementation**
+
+## Backup Plans
+
+### Alternative Data Sources
+[What alternatives exist if primary sources aren't available?]
+
+### Proxy Measures
+[What substitute metrics could you use if ideal data isn't available?]
+
+### Simplified Analysis
+[What's the minimum viable organizational evidence you need?]
+
+---
+INSTRUCTIONS:
+1. Start with readily available data before pursuing hard-to-access information
+2. Be respectful of privacy and confidentiality when requesting internal data
+3. Focus on data most relevant to your specific problem and solution
+4. Document your data sources and analysis methods clearly
+5. Have backup plans for inaccessible data

@@ -1,0 +1,165 @@
+# Practitioner Evidence: Methods & Acquisition Strategy
+# Document your approach to gathering expert insights and professional experience
+
+# Practitioner Evidence: Methods & Acquisition Strategy
+# Document your approach to gathering expert insights and professional experience
+
+## Practitioner Evidence Goals
+**Primary Goal:** Gather insights from retail and food service managers about effective turnover reduction strategies they have successfully implemented
+**Secondary Goal:** Understand practical implementation challenges and realistic outcomes based on practitioner experience in similar contexts
+
+## Target Practitioners
+
+### Industry Experts
+**Target Profile:** Operations managers, district managers, and general managers with direct experience reducing turnover in retail and food service industries
+- Years of experience desired: 5-15 years
+- Industry/sector focus: Quick-service restaurants, casual dining, retail chains, grocery stores
+- Role/position types: Store managers, district managers, regional managers, operations directors
+- Company size experience: Primarily small to medium enterprises (10-500 employees) 
+- Geographic location: US-based with preference for similar demographic markets
+
+### Specific Practitioners Identified
+1. **Name/Title/Organization:** Local Restaurant Manager Network (JMU Alumni)
+   - **Relevance:** Direct experience with turnover challenges in food service industry in Virginia market
+   - **Contact Method:** Professional networking through JMU career services and LinkedIn
+
+2. **Name/Title/Organization:** Regional Retail Manager (Target/Walmart contacts)
+   - **Relevance:** Large-scale retail experience with proven turnover reduction programs
+   - **Contact Method:** Professional networking and informational interviews
+
+3. **Name/Title/Organization:** Independent Restaurant Owners (Local Chamber of Commerce)
+   - **Relevance:** Small business perspective on cost-effective turnover solutions
+   - **Contact Method:** Chamber of Commerce networking events and referrals
+
+## Acquisition Methods
+
+### Expert Interviews
+#### Interview Planning
+- **Target Number:** 4-6 interviews planned
+- **Interview Length:** 30-45 minutes each
+- **Interview Method:** Phone or video calls (flexible for practitioner convenience)
+- **Recording Plan:** Note-taking during interviews with follow-up summary sent to interviewee for accuracy
+
+#### Interview Protocol
+**Opening Questions:**
+- Can you tell me about your experience managing turnover in retail/food service?
+- How long have you been working in management roles in these industries?
+
+**Problem-Focused Questions:**
+- Have you encountered high employee turnover problems in your operations?
+- What causes turnover problems most frequently in your experience?
+- How common is 70%+ annual turnover in retail and food service organizations you've worked with?
+
+**Solution-Focused Questions:**
+- What approaches have you seen work best for reducing employee turnover?
+- What specific wage, scheduling, or training solutions have you tried or observed?
+- What would you recommend as the most cost-effective interventions based on your experience?
+
+**Implementation Questions:**
+- What challenges should small businesses expect when implementing turnover reduction programs?
+- What would you do differently if you were addressing high turnover again?
+- What resources or management support are critical for successful implementation?
+
+**Closing Questions:**
+- Who else in the industry would you recommend I speak with about this challenge?
+- Is there anything important about turnover reduction I haven't asked about?
+
+### Professional Networks
+
+#### LinkedIn Outreach
+- **Target Search Terms:** "retail manager," "restaurant manager," "food service director," "operations manager" + "turnover" or "retention"
+- **Connection Strategy:** Personalized messages explaining research purpose and requesting brief informational interview
+- **Message Template:** "Hi [Name], I'm conducting research on effective employee turnover reduction strategies in retail/food service. Given your experience at [Company], would you be willing to share insights in a brief 30-minute conversation? Happy to work around your schedule."
+
+#### Industry Associations
+- **Relevant Associations:** National Restaurant Association, Retail Industry Leaders Association, Virginia Restaurant Association
+- **Contact Strategy:** Contact local chapters for member referrals and networking opportunities
+- **Events/Forums:** Industry networking events, chamber of commerce meetings, management roundtables
+
+### Case Study Research
+
+### Case Study Research
+
+#### Published Case Studies  
+- **Target Sources:** Harvard Business Review, National Restaurant News, Retail Dive, industry consulting reports from McKinsey and Deloitte
+- **Search Strategy:** Keyword searches for "employee retention," "turnover reduction," "retail success stories," "restaurant management best practices"
+- **Documentation Plan:** Standardized case study summaries with intervention details, outcomes, and implementation lessons
+
+#### Company Examples
+- **Target Companies:** Starbucks (partner benefits program), Costco (above-market wages), In-N-Out Burger (retention strategies), Wegmans (employee satisfaction programs)
+- **Information Sources:** Annual reports, industry conference presentations, news articles, company blog posts
+- **Contact Strategy:** LinkedIn outreach to HR directors and operations managers for brief conversations
+
+## Documentation Strategy
+
+### Interview Documentation
+- **Recording:** Note-taking during interviews with digital backup notes, no audio recording to maintain comfort
+- **Note-taking:** Real-time structured notes plus detailed post-interview summary within 24 hours
+- **Transcription:** Key quotes captured verbatim during interview, full summary typed post-interview
+- **Analysis:** Thematic coding for implementation strategies, cost factors, success measures, and common challenges
+
+### Case Study Documentation
+- **Template:** Company name, industry segment, problem context, intervention details, measured outcomes, implementation timeline
+- **Key Elements:** Specific turnover rates, cost of interventions, ROI data when available, lessons learned
+- **Source Tracking:** Full citations with access dates for online sources, contact information for interviews
+
+## Outreach Strategy
+
+### Contact Approach
+**Initial Contact Message Template:**
+"Hello [Name], I'm a JMU student conducting research on effective employee retention strategies in retail and food service. I came across your work at [Company] and would greatly appreciate 30 minutes of your insights on what's worked in your experience. I can work around your schedule and happy to share my research findings with you. Would you be open to a brief conversation?"
+
+**Follow-up Strategy:**
+One follow-up message after one week if no response, then move to alternative contacts
+
+**Incentives:**
+Offer to share summary of research findings, provide networking connection to other industry professionals interviewed
+
+### Timing Plan
+- **Outreach Start Date:** November 20, 2025 (immediately)
+- **Interview Window:** November 20-21, 2025 (urgent due to assignment deadline)
+- **Follow-up Period:** Same day follow-up for clarification questions
+
+## Ethical Considerations
+
+### Informed Consent
+- **Purpose Explanation:** Academic research for Evidence-Based Management course at JMU focused on turnover reduction strategies
+- **Use of Information:** Insights will be anonymized and used for academic analysis and evidence-based recommendations
+- **Anonymity/Attribution:** Practitioners will be kept anonymous unless they specifically consent to attribution
+- **Approval Process:** Summary of how their input is used will be shared if requested
+
+### Professional Courtesy
+- **Time Respect:** Strictly adhere to agreed 30-minute time limit with structured questions
+- **Preparation:** Research practitioner's background and company context before interview
+- **Follow-through:** Send thank you note and summary of key insights if they want to see how input was used
+
+## Expected Challenges
+
+### Access Challenges
+Busy practitioners may not have time for interviews during peak business hours. Solution: Offer flexible scheduling including early morning or evening calls.
+
+### Response Rate Concerns
+Low response rate due to time constraints. Solution: Cast wider net with 10+ initial contacts expecting 30-40% response rate.
+
+### Quality Concerns
+Practitioners may provide generic rather than specific insights. Solution: Use structured interview protocol with specific scenario-based questions.
+
+### Time Constraints
+Assignment due November 21 limits interview window. Solution: Prioritize quick scheduling over perfect timing, supplement with published case studies.
+
+## Backup Plans
+
+### Alternative Sources
+If insufficient interviews: Leverage published case studies, industry reports, and professional forums/Reddit discussions from verified industry managers.
+
+### Modified Approaches
+If time too limited: Email questionnaire with structured questions for practitioners who cannot schedule calls.
+
+### Minimum Viable Evidence
+Minimum target: 2-3 quality interviews plus 3-4 detailed case studies to provide sufficient practitioner perspective.
+
+---
+
+**Practitioner Evidence Collection Strategy Finalized:** November 20, 2025
+**Outreach Beginning Immediately** - Targeting 4-6 interviews within 24-hour window
+**Ready for Implementation**
